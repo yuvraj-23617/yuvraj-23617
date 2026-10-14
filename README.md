@@ -2,28 +2,14 @@
 
 # Hey, I'm Yuvraj Verma 👋
 
-### CSB Undergraduate @ IIIT Delhi | AI/ML | Software Engineering
+### CS Undergraduate @ IIIT Delhi | AI/ML | Software Engineering
 
 Building intelligent systems, scalable applications, and products
 that solve real-world problems.
 
-<br>
+## About Me
 
-<a href="https://github.com/yuvraj-23617">
-  <img src="https://img.shields.io/badge/GitHub-yuvraj--23617-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science and Biosciences undergraduate at
+I'm a Computer Science undergraduate at
 **Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi)**.
 
 My interests lie at the intersection of **Artificial Intelligence,
@@ -37,19 +23,19 @@ for E-Summit 2026.
 As Head of Sponsorship, I led initiatives that achieved a **5× increase
 in sponsorship revenue** over the previous edition.
 
-- 🎓 B.Tech in Computer Science and Biosciences, IIIT-Delhi
-- 🤖 Interested in AI/ML, recommendation systems, and GenAI
-- ⚙️ Exploring backend engineering and distributed systems
-- 🧩 Enjoy solving problems and building practical applications
-- 🚀 Interested in technology, startups, and product development
+- B.Tech in Computer Science, IIIT-Delhi
+- Interested in AI/ML, recommendation systems, and GenAI
+- Exploring backend engineering and distributed systems
+- Enjoy solving problems and building practical applications
+- Interested in technology, startups, and product development
 
 ---
 
-## 🚀 My Top 3 Projects
+## My Top 3 Projects
 
 These are the three projects I want visitors to explore first.
 
-### 01. 🧠 LightGCN Recommendation Engine
+### 01. LightGCN Recommendation Engine
 
 **Graph-Based Recommendation Systems | Machine Learning | GenAI**
 
@@ -66,12 +52,11 @@ collaborative filtering with LLM-powered conversational refinement.
 
 **Tech:** Python · LightGCN · SBERT · Groq API · Recommendation Systems
 
-<!-- Replace YOUR-REPOSITORY-LINK with your actual repository URL. -->
-[View Project →](https://github.com/yuvraj-23617)
+[View Project →](https://github.com/yuvraj-23617/lightgcn-hybrid-recommender)
 
 ---
 
-### 02. ⚙️ Distributed Online Coding Assessment Platform
+### 02. Distributed Online Coding Assessment Platform
 
 **Backend Engineering | Distributed Systems | Docker**
 
@@ -88,11 +73,11 @@ and asynchronous code evaluation infrastructure.
 **Tech:** Java · Spring Boot · RabbitMQ · Docker · REST APIs
 
 <!-- Replace YOUR-REPOSITORY-LINK with your actual repository URL. -->
-[View Project →](https://github.com/yuvraj-23617)
+[View Project →](https://github.com/yuvraj-23617/Distributed-Online-Coding-Assessment-Platform)
 
 ---
 
-### 03. 📚 Course Registration System
+### 03. Course Registration System
 
 **Java Development | Object-Oriented Programming | System Design**
 
@@ -108,8 +93,7 @@ academic workflows through modular, role-specific functionality.
 
 **Tech:** Java · OOP · Exception Handling · UML
 
-<!-- Replace YOUR-REPOSITORY-LINK with your actual repository URL. -->
-[View Project →](https://github.com/yuvraj-23617)
+[View Project →](https://github.com/yuvraj-23617/Course-Registration-System)
 
 ---
 
@@ -150,7 +134,7 @@ academic workflows through modular, role-specific functionality.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in connecting with people working on AI, software
 engineering, intelligent systems, and technology-driven products.
@@ -159,6 +143,6 @@ engineering, intelligent systems, and technology-driven products.
 
 **Thanks for visiting my profile!**
 
-⭐ Feel free to explore my repositories and projects.
+Feel free to explore my repositories and projects.
 
 </div>

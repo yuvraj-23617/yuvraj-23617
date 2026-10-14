@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Hey, I'm Yuvraj Verma 👋
+# Hey, I'm Yuvraj Verma
 
 ### CS Undergraduate @ IIIT Delhi | AI/ML | Software Engineering
 

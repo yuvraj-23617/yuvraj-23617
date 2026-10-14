@@ -122,24 +122,15 @@ academic workflows through modular, role-specific functionality.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yuvraj-23617&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-23617&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm interested in connecting with people working on AI, software
 engineering, intelligent systems, and technology-driven products.
+<a href="https://www.linkedin.com/in/yuvraj-verma-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-<div align="center">
+<div align="left">
 
 **Thanks for visiting my profile!**
 
